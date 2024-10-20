@@ -77,14 +77,14 @@ body {
 
 .logo {
     
-    background: url("C:\Users\Dinesh\Desktop\dynamechs2k23-master\bar_logo.png") no-repeat;
+    background: url("bar_logo.png") no-repeat;
     background-size: contain;
-    transition: background 0.3s ease-out;
+    transition:background 0.3s ease-out;
 }
 
 .bar_logo{
     width: 15%;
-    padding-right: ;
+
 }
 .logo-box p {
     margin: 0;
@@ -790,7 +790,6 @@ li ol li {
     transition: 1s;
     border-radius: 8px;
     box-shadow: -4.5px 8px 13px black;
-    padding-left:  ;
 }
 
 .card-img:hover {
@@ -824,7 +823,7 @@ li ol li {
 }
 
 .card-image6 {
-    background-image: url("../../../Downloads/launch_event1.png");
+    background-image: url("launch_event1.png");
     background-size: cover;
 }
 
@@ -1683,9 +1682,7 @@ footer {
 .bar_logo{
     display: flex;
   margin-left: -705px;
-  margin-right: ;
   margin-top: -55px;
-  margin-bottom: ;
   width: 80px;
   height: 78px;
 }
